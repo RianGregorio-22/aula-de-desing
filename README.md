@@ -58,7 +58,7 @@ dadsaf
 Markdown | Documentação|
 
 |Alinhado á esquerda | Alinhado ao centro | Alinhado á direita|
-| :--- | |:---:| | ---:|
+|:--- | :---: | ---|
 | texto | texto | texto |
 
 ## Imagens
