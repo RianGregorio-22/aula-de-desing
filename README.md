@@ -44,3 +44,23 @@ dadsaf
 [Visite o github](https://github.com/RianGregorio-22)
 
 [abra outro arquivo do projeto](./aula-de-desing/README.md)
+
+## Citações
+
+> uma 
+
+
+## Tabela
+
+|Tecnologia  | Finalidade|
+| --- | --- |
+|Git | GIT HHospedagem e colaboração |
+Markdown | Documentação|
+
+|Alinhado á esquerda | Alinhado ao centro | Alinhado á direita|
+| :--- | |:---:| | ---:|
+| texto | texto | texto |
+
+## Imagens
+
+![Globo](./globo.jpg)
