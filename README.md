@@ -47,7 +47,7 @@ dadsaf
 
 ## Citações
 
-> uma 
+> Uma boa documentação explica o objeto, o uso e as limitações de um projeto e as limitações de um projeto.
 
 
 ## Tabela
